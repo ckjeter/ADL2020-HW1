@@ -1,0 +1,9 @@
+{
+    "train": "datasets/train.jsonl",
+    "valid": "datasets/valid.jsonl",
+    "test": "datasets/test.jsonl.release",
+    "embedding": "glove/glove.6B.300d.txt",
+    "max_text_len": 400,
+    "max_summary_len": 80,
+    "lower_case": true
+}
